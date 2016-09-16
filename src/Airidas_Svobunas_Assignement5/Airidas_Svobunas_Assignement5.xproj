@@ -7,7 +7,7 @@
 
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>d49928a7-6c6a-4085-904f-e973690f7603</ProjectGuid>
+    <ProjectGuid>f3604b75-26fd-49f2-986d-a50498f602e1</ProjectGuid>
     <RootNamespace>Airidas_Svobunas_Assignement5</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
