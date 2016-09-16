@@ -1,0 +1,39 @@
+html, body {
+    margin:0;
+    padding:0;
+}
+
+h1 {
+	margin: 0;
+	padding: 0;
+	
+}
+#page-content {
+	height: 100%;
+}
+#sidebar {
+	position: fixed;
+	float: left;
+	width: 280px;
+	height: 100%;
+	background: #008B8B!important;
+	
+	
+}
+#content {	
+	margin-left: 280px;	
+	background: grey;
+	padding-left: 10px;
+
+}
+
+#footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	margin-left: 280px;
+	height: 25px;
+	background: black;
+	color: white;
+	padding-top: 10px;
+}
