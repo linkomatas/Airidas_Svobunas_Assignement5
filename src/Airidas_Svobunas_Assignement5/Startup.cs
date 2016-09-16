@@ -30,7 +30,6 @@ namespace Airidas_Svobunas_Assignement5
 
             app.UseDefaultFiles();
             app.UseStaticFiles();
-
         }
     }
 }
